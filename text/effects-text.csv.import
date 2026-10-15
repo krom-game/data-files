@@ -6,7 +6,7 @@ uid="uid://dln0tmumqm1c0"
 
 [deps]
 
-source_file="res://data-files/text/effects-text.csv"
+source_file="res://base/data-files/text/effects-text.csv"
 
 [params]
 

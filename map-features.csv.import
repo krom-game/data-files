@@ -6,7 +6,7 @@ uid="uid://cm5smni23kgji"
 
 [deps]
 
-source_file="res://data-files/map-features.csv"
+source_file="res://base/data-files/map-features.csv"
 
 [params]
 

@@ -6,7 +6,7 @@ uid="uid://bns1pdfuo58w4"
 
 [deps]
 
-source_file="res://data-files/equipment.csv"
+source_file="res://base/data-files/equipment.csv"
 
 [params]
 

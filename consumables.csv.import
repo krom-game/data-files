@@ -6,7 +6,7 @@ uid="uid://dsp6hrpiqwd13"
 
 [deps]
 
-source_file="res://data-files/consumables.csv"
+source_file="res://base/data-files/consumables.csv"
 
 [params]
 

@@ -6,7 +6,7 @@ uid="uid://b4h8fba13qopk"
 
 [deps]
 
-source_file="res://data-files/skills.csv"
+source_file="res://base/data-files/skills.csv"
 
 [params]
 
