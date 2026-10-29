@@ -1,3 +1,3 @@
-﻿name,primaryType,secondaryType,position,toughness,,might,wisdom,cunning,movement,paragonOf,effects
-Adventurer,Ranger,None,Flex,12,,2,1,3,2,,Entrance(Draw(1))
-Alchemist,Poison,Fire,Ranged,10,,1,6,4,2,,Entrance(Draw(3))
+name,primaryType,secondaryType,baseHealth,mightAttack,mightDefence,wisdomAttack,wisdomDefence,cunningAttack,cunningDefence,effects
+Adventurer,Ranger,None,12,6,4,2,2,5,5,Entrance(Draw(1))
+Alchemist,Poison,Fire,10,1,2,10,8,6,4,Entrance(Draw(3))
